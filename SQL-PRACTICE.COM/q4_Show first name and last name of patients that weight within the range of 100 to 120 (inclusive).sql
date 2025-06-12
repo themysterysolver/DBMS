@@ -1,0 +1,1 @@
+SELECT first_name,last_name FROM patients where weight<=120 and weight>=100

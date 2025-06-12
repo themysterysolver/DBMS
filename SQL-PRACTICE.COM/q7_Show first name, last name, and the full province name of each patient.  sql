@@ -1,0 +1,1 @@
+select p.first_name,p.last_name,pr.province_name from patients p join province_names pr ON p.province_id=pr.province_id
